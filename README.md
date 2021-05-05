@@ -3,7 +3,7 @@
 
 1. ### [Сайт проекта CharCoin](https://charcoin.io)
 
-1. ### [Сайт проекта Миллион Сосен](http://xn--e1afaladlbgb6ab.xn--90ais/)
+1. ### [Сайт проекта Миллион Сосен](https://davlatovravshan.github.io/mln-sosen/)
 
 1. ### [Сайт Стамотологии](https://davlatovravshan.github.io/dental/)
 

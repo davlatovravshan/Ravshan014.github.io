@@ -1,7 +1,7 @@
 # Давлатов Равшан
 ## Портфолио: заказы
 
-1. ### [Сайт проекта CharCoin](https://charcoin.io)
+1. ### [Сайт проекта CharCoin](https://davlatovravshan.github.io/charcoin/home)
 
 1. ### [Сайт проекта Миллион Сосен](https://davlatovravshan.github.io/mln-sosen/)
 
